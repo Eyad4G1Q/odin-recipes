@@ -1,0 +1,12 @@
+h1 ,h2,h3 {
+    color:purple;
+}
+
+img{
+    position:inherit;
+    width:auto;
+    height: 200px;
+}
+.lasagna-link{
+    position:block;
+}
